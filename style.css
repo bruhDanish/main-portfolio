@@ -443,7 +443,7 @@ footer .copyright {
   }
 
   body {
-    overflow-x: auto !important;
+    overflow-x: hidden !important;
   }
 
   .footer {
