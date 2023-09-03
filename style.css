@@ -485,7 +485,7 @@ footer .copyright {
     align-items: center;
     height: 12vh;
     background-color: rgb(130, 236, 236);
-    width: 150vw;
+    width: 160vw;
   }
 
   .firstSection{
@@ -497,7 +497,7 @@ footer .copyright {
     bottom: 20px;
     left: 40px;
     font-size: 10px;
-    margin-left: -150px;
+    margin-left: -14em;
   }
 
   .leftSection {
@@ -513,9 +513,9 @@ footer .copyright {
     right: 55px;
     top: 10px;
     font-size: 11px;
-    margin-left: -10px;
+    margin-left: -15px;
   }
-
+  
   .secondSection{
     display: flex;
     justify-content: center;
