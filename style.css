@@ -160,8 +160,8 @@ hr {
   max-width: 80vw;
   margin: auto;
   height: 70vh;
-  margin-top: 170px;
-  margin-bottom: 170px;
+  margin-top: 100px;
+  margin-bottom: -100px;
 }
 
 .thirdSection h1 {
@@ -205,7 +205,7 @@ hr {
   left: -25px;
 }
 
-.skillContainer {
+/* .skillContainer {
   margin-top: 200px;
 }
 
@@ -228,7 +228,7 @@ hr {
 
 #third {
   width: 15vw;
-}
+} */
 
 /* Slideshow container */
 
