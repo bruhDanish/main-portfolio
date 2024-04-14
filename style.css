@@ -8,6 +8,8 @@ body {
   background-color: #eceff1;
   color: rgb(7, 24, 61);
   font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 nav {
